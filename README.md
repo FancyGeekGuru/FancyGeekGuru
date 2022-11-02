@@ -12,10 +12,10 @@
 - Chains: EVM chains, Elrond, Aptos, Massa
 
 #### Contributed
-https://birdezgang.com/
-https://market.fabwelt.com/
-https://memeNFT.com/
-https://launchpad.seedify.fund/
-https://zomfi.org/
-https://autoshark.finance/
-https://savvydefi.io/
+- https://birdezgang.com/
+- https://market.fabwelt.com/
+- https://memeNFT.com/
+- https://launchpad.seedify.fund/
+- https://zomfi.org/
+- https://autoshark.finance/
+- https://savvydefi.io/
