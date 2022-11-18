@@ -1,6 +1,6 @@
 #### **Contact Details**
 - Telegram: @fancydev0225
-- Discord: Codelorian#7721
+- Discord: fire_on_fire#7721
 - Skype: live:.cid.2ce571c80c8b3985
 
 #### I am a senior blockchain developer with NFT/DeFi fields.
