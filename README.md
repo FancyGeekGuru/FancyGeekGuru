@@ -5,7 +5,6 @@
 #### Contributed
 - https://canada777.com/
 - https://birdezgang.com/
-- https://zomfi.org/
 - https://market.fabwelt.com/
 - https://memeNFT.com/
 - https://launchpad.seedify.fund/
