@@ -1,16 +1,4 @@
-#### **Contact Details**
-- Telegram: @fancydev0225
-- Discord: fire_on_fire#7721
-- Skype: live:.cid.2ce571c80c8b3985
-
-#### I am a senior blockchain developer with NFT/DeFi fields.
-- Smart contracts in Solidity, Rust and Move. (Hardhat, Truffle)
-- Passionate about p2e game development.
-- NFT minting engines/NFT marketplaces, NFT staking, NFT lottery, NFT Games.
-- DeFi systems like PancakeSwap, Uniswap, Sushiswap, Tombo, PantherSwap, GooseDeFi etc.
-- Decentralized Exchanges with TradingView.
-- Token Bridge, Block Explorer.
-- Chains: EVM chains, Elrond, Aptos, Massa
+### I am a full-stack engineer who likes a clean code style. I've spent a lot of time with Ethereum and Elrond. Now I'm focusing on Aptos and Sui.
 
 #### Contributed
 - https://canada777.com/
